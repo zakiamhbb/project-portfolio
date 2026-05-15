@@ -382,6 +382,17 @@ footer {
   font-weight: 500;
 }
 
+.footer-copy {
+  margin-top: 4rem;
+  opacity: 0.5;
+}
+
+.footer-credit {
+  font-size: 0.75rem;
+  opacity: 0.3;
+  margin-top: 0.5rem;
+}
+
 /* Animations */
 .reveal {
   opacity: 0;
